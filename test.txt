@@ -1,2 +1,6 @@
 day la file txt
+<<<<<<< HEAD
 thuoc brand: test_conflig va master
+=======
+thuoc brand: klsancxz
+>>>>>>> master
